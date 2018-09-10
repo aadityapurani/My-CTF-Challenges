@@ -23,4 +23,4 @@ https://bitbucket.org/jherron/stegosaurus/overview
 
 After utilizing it, players will receive their hard earned flag : `flag{5t3g0_ftw}`
 
-We expect players to dig up through the difference between python versions. It's very minor but this challenge has huge relevance in *real world scenario*, as any Malware can basically hide shellcode inside a pyc file & extract it.
+We expect players to dig up through the difference between python versions. It's very minor but this challenge has huge relevance in *real world scenario*, as any Malware can basically hide shellcode inside a pyc file & extract it. Hence, the description either you use your hard earned leet skills indefinetly to reverse or either you think deep ;) 
