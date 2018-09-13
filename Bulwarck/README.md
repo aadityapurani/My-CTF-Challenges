@@ -16,6 +16,6 @@ Note: Please allow 5 minutes between solving and submission for flag
 ### Level of difficulty: Medium-Hard
 
 ### Solve Stats : 
-0/670 registered team
+1/670 registered team
 
-0/123 team who scored atleast 1 point
+1/123 team who scored atleast 1 point
